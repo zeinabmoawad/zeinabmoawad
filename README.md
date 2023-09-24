@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeinab Moawad Fayez Hassan</h1>
 <h3 align="center">Student at Computer Department ,Faculty of Engineering ,Cairo University</h3>
-<img algin="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img algin="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/007/983/382/original/woman-in-hijab-working-at-cafe-empowered-business-woman-working-on-laptop-muslim-student-with-laptop-in-cafe-vector.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeinabmoawad&label=Profile%20views&color=0e75b6&style=flat" alt="zeinabmoawad" /> </p>
 
 - 🌱 I’m currently learning **AI Track**
