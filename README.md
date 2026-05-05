@@ -29,10 +29,10 @@
 `React.js` `TypeScript` `JavaScript` `HTML` `CSS` `Redux` `Flask` `Node.js`
 
 #### 📱 Mobile Development
-`Flutter` `Dart`
+`Flutter` 
 
 #### 🗄️ Databases & Tools
-`MongoDB` `MySQL` `Firebase` `Git` `Postman`
+`MongoDB` `MySQL` `Git` `Postman`
 
 ---
 
@@ -53,12 +53,3 @@
 - 🔗 https://www.linkedin.com/in/zeinab-moawad-930247217/  
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinabmoawad&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeinabmoawad&show_icons=true&locale=en" />
-</p>
