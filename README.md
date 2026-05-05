@@ -1,26 +1,64 @@
-<h1 align="center">Hi 👋, I'm Zeinab Moawad Fayez Hassan</h1>
-<h3 align="center">Computer Engineer ,Cairo University</h3>
-<img algin="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/007/983/382/original/woman-in-hijab-working-at-cafe-empowered-business-woman-working-on-laptop-muslim-student-with-laptop-in-cafe-vector.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeinabmoawad&label=Profile%20views&color=0e75b6&style=flat" alt="zeinabmoawad" /> </p>
+<h1 align="center">Hi 👋, I'm Zeinab Moawad</h1>
+<h3 align="center">AI Engineer | Computer Engineering Graduate - Cairo University</h3>
 
-- 🌱 I’m currently learning **AI Track**
-
-- 👨‍💻 All of my projects are available at [https://github.com/zeinabmoawad](https://github.com/zeinabmoawad)
-
-- 💬 Ask me about **flutter, dart**
-
-- 📫 How to reach me **zeinab.hassan00@eng-st.cu.edu.eg**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gNvSQ5D18ucv1uSSNkd_Kbj3ia_aR8PV/view?usp=sharing](https://drive.google.com/file/d/1gNvSQ5D18ucv1uSSNkd_Kbj3ia_aR8PV/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/zeinab-moawad-930247217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeinab moawad" height="30" width="40" /></a>
+<p align="center">
+  <img width="400" src="https://static.vecteezy.com/system/resources/previews/007/983/382/original/woman-in-hijab-working-at-cafe-empowered-business-woman-working-on-laptop-muslim-student-with-laptop-in-cafe-vector.jpg" alt="coding" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeinabmoawad&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinabmoawad&show_icons=true&locale=en&layout=compact" alt="zeinabmoawad" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeinabmoawad&show_icons=true&locale=en" alt="zeinabmoawad" /></p>
+### 🚀 About Me
+- 🎓 Computer Engineering Graduate (Cairo University, GPA: 3.7)  
+- 🤖 AI Engineer focused on **LLMs, RAG systems, and AI agents**  
+- 🧠 Experienced in building **multi-agent systems using LangGraph & LangChain**  
+- 🌱 Currently deepening my knowledge in **Advanced LLM Systems & Production AI**  
+- 💬 Ask me about **AI, LLMs, Flutter, or Full-Stack Development**  
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💡 AI & Machine Learning
+`Python` `PyTorch` `TensorFlow` `LLMs` `LangChain` `LangGraph` `RAG` `Vector Search`
+
+#### 🌐 Web Development
+`React.js` `TypeScript` `JavaScript` `HTML` `CSS` `Redux` `Flask` `Node.js`
+
+#### 📱 Mobile Development
+`Flutter` `Dart`
+
+#### 🗄️ Databases & Tools
+`MongoDB` `MySQL` `Firebase` `Git` `Postman`
+
+---
+
+### 📂 Projects
+👨‍💻 Explore my work here:  
+👉 https://github.com/zeinabmoawad  
+
+---
+
+### 📄 Resume
+📎 View my CV:  
+👉 https://drive.google.com/file/d/1gNvSQ5D18ucv1uSSNkd_Kbj3ia_aR8PV/view  
+
+---
+
+### 📫 Contact Me
+- 📧 zeinab.hassan00@eng-st.cu.edu.eg  
+- 🔗 https://www.linkedin.com/in/zeinab-moawad-930247217/  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinabmoawad&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeinabmoawad&show_icons=true&locale=en" />
+</p>
